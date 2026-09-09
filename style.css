@@ -20,7 +20,7 @@
   .navbar__container {
     display: flex;
     justify-content: space-between;
-    height: 85px;
+    height: 90px;
     z-index: 1;
     width: 100%;
     max-width: 1300px;
