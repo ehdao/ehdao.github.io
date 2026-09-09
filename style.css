@@ -6,7 +6,7 @@
   }
   
   .navbar {
-    background: #B2CDD4;
+    background: #280b0f;
     height: 60px;
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@
   }
   
   #navbar__logo {
-    background-color: #6276A5;
+    background-color: #c6b39a;
     background-size: 100%;
     -webkit-background-clip: text;
     background-clip: text;
